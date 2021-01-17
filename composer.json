@@ -1,0 +1,12 @@
+{
+    "name": "latitude/akreditasi-ipt",
+    "description": "Aplikasi Akreditasi Instansi Pendidikan (Simulasi)",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Herfy Hidayat",
+            "email": "a2.1700144@mhs.stmik-sumedang.ac.id"
+        }
+    ],
+    "require": {}
+}
