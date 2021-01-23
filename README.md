@@ -10,6 +10,15 @@ Aplikasi Akreditasi Instansi Perguruan Tinggi (Simulasi)
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Instalasi
+Yang dibutuhkan Hostingan Lokal:
+- XAMPP / Laragon / Laravel (PHP Artisan)
+- MySQL / Maria DB (dijalankan manual untuk pasang database)
+
+Yang dibutuhkan Hostingan Online
+- Server yang mendukung Laravel Framework minimal bisa menjalankan Artisan
+- MySQL / Maria DB integrated
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
